@@ -136,25 +136,37 @@ The website was deployed using Hostinger's one-click WordPress installer on a su
 6. Configuring the navigation menu and homepage settings
 
 ---
-
 ## Challenges Faced and Solutions
 
-### Challenge 1: Theme Selection
-**Issue:** Finding a completely free e-commerce theme on WordPress.com
-**Solution:** Switched to self-hosted WordPress on Hostinger subdomain and used Astra free theme
+**Challenge 1: Hosting Platform Limitations**
 
-### Challenge 2: Subdomain Dashboard Redirection
-**Issue:** Admin panel button redirected to main domain
-**Solution:** Used direct URL https://abrahamecommerce.vgmissionary.org/wp-admin to access dashboard
+**Issue:** Initially attempted to use WordPress.com free plan for the e-commerce website. Discovered that the free plan does not support WooCommerce or third-party plugin installations, which were essential for building the online store.
 
-### Challenge 3: WooCommerce Setup
-**Issue:** Configuring products and categories
-**Solution:** Created product categories (Home Decor, Fresh Foods, Tech Gear, Accessories) and added products with proper descriptions
+**Solution:** Switched to Hostinger hosting service which provides full WordPress installation with complete plugin support. This allowed installation of WooCommerce, Contact Form 7, and other necessary plugins.
 
-### Challenge 4: WordPress.com Limitations
-**Issue:** WooCommerce and plugins not available on free WordPress.com plan
-**Solution:** Used Hostinger hosting with full WordPress installation
+---
 
+**Challenge 2: Subdomain Dashboard Access**
+
+**Issue:** After creating the subdomain on Hostinger, clicking the WordPress admin panel button in hPanel redirected to the main domain's dashboard instead of the subdomain's admin area.
+
+**Solution:** Manually accessed the WordPress dashboard using the direct URL: https://abrahamecommerce.vgmissionary.org/wp-admin/. This bypassed the redirection issue and provided access to the correct admin interface.
+
+---
+
+**Challenge 3: Product Configuration and Categorization**
+
+**Issue:** Configuring products with proper categories, descriptions, images, and pricing required careful planning to ensure a professional store appearance.
+
+**Solution:** Created four main product categories (Home Decor, Fresh Foods, Tech Gear, Accessories) and added products with detailed descriptions, competitive pricing, and high-quality images. Each product was configured with the correct WooCommerce settings for inventory and display.
+
+---
+
+**Challenge 4: Theme Compatibility and E-commerce Features**
+
+**Issue:** Finding a free theme that was fully compatible with WooCommerce and provided professional e-commerce features without paid upgrades.
+
+**Solution:** Installed and activated the Astra theme (free version), which offers complete WooCommerce integration, responsive design, and essential e-commerce features without requiring premium upgrades.
 ---
 
 ## Lessons Learned
@@ -174,21 +186,71 @@ The website was deployed using Hostinger's one-click WordPress installer on a su
 4. Documentation and presentation skills
 
 ---
-
 ## Future Improvements
 
-- Deploy to production with full domain
-- Add payment gateway integration (Stripe/PayPal)
-- Add user registration and login
-- Add product reviews and ratings
-- Implement product search functionality
-- Add shopping cart persistence
-- Enable order tracking system
-- Add social media integration
-- Implement newsletter subscription
-- Enhance mobile responsiveness
-- Optimize for SEO
+**Improvement 1: Domain and Hosting**
 
+Deploy the website to a production environment with a custom domain name instead of a subdomain for a more professional appearance. Upgrade hosting plan to accommodate increased traffic and faster loading speeds.
+
+---
+
+**Improvement 2: Payment Gateway Integration**
+
+Integrate payment gateways such as Stripe or PayPal to enable real payment processing. Add support for multiple payment methods including credit/debit cards and mobile money.
+
+---
+
+**Improvement 3: User Registration and Login**
+
+Implement user registration and login functionality to allow customers to create accounts. Enable order history and saved preferences for returning customers.
+
+---
+
+**Improvement 4: Product Reviews and Ratings**
+
+Add product reviews and ratings to help customers make informed purchasing decisions. Implement a wishlist feature for customers to save favorite products.
+
+---
+
+**Improvement 5: Product Search Functionality**
+
+Implement advanced product search functionality with filters and sorting options. Add product recommendations based on browsing history and purchase patterns.
+
+---
+
+**Improvement 6: Shopping Cart Persistence**
+
+Enable shopping cart persistence so items remain in the cart even after the user leaves the site. Implement cross-device cart synchronization for logged-in users.
+
+---
+
+**Improvement 7: Order Tracking System**
+
+Enable order tracking system so customers can monitor their delivery status. Add email notifications for order confirmation and shipping updates.
+
+---
+
+**Improvement 8: Social Media Integration**
+
+Integrate social media sharing buttons for products and pages. Connect the store to social media platforms for marketing and customer engagement.
+
+---
+
+**Improvement 9: Newsletter Subscription**
+
+Implement newsletter subscription to keep customers informed about new products, promotions, and exclusive deals. Automate email marketing campaigns.
+
+---
+
+**Improvement 10: Mobile Responsiveness**
+
+Enhance mobile responsiveness for better user experience on all devices. Optimize the layout for smartphones and tablets.
+
+---
+
+**Improvement 11: SEO Optimization**
+
+Optimize website speed and SEO to improve search engine rankings. Implement meta tags, sitemaps, and structured data for better visibility.
 ---
 
 ## Contact
