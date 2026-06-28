@@ -88,13 +88,13 @@ markdown
 ## Screenshots
 
 ### Homepage
-![Homepage](images/homepage.png)
+![Homepage](images/home_page.png)
 
 ### Product Page
-![Product Page](images/product-page.png)
+![Product Page](images/product_page.png)
 
 ### Cart Page
-![Cart Page](images/cart-page.png)
+![Cart Page](images/cart_page.png)
 
 ---
 
