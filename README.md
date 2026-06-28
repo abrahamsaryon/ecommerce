@@ -78,7 +78,7 @@ markdown
 ### Additional Features
 - Responsive design (mobile-friendly)
 - User-friendly navigation
-- Professional appearance with Astra Theme
+- Professional appearance with HostingerAI Theme
 - WordPress backend management
 - WooCommerce integration
 - Newsletter subscription section
@@ -130,7 +130,7 @@ The website was deployed using Hostinger's one-click WordPress installer on a su
 
 1. Creating a subdomain in Hostinger hPanel
 2. Using Hostinger's Auto Installer to install WordPress
-3. Installing and activating Astra theme
+3. Installing and activating HostingerAI theme
 4. Installing WooCommerce and Contact Form 7 plugins
 5. Creating products, pages, and customizing the site
 6. Configuring the navigation menu and homepage settings
@@ -166,7 +166,7 @@ The website was deployed using Hostinger's one-click WordPress installer on a su
 
 **Issue:** Finding a free theme that was fully compatible with WooCommerce and provided professional e-commerce features without paid upgrades.
 
-**Solution:** Installed and activated the Astra theme (free version), which offers complete WooCommerce integration, responsive design, and essential e-commerce features without requiring premium upgrades.
+**Solution:** Installed and activated the HostingerAI theme (free version), which offers complete WooCommerce integration, responsive design, and essential e-commerce features without requiring premium upgrades.
 ---
 
 ## Lessons Learned
@@ -267,7 +267,7 @@ Optimize website speed and SEO to improve search engine rankings. Implement meta
 - Instructor: Eric Maniraguha for guidance
 - WordPress Community for open-source software
 - WooCommerce Team for e-commerce platform
-- Astra Theme Team for free theme
+- HostingerAI Theme Team for free theme
 - Hostinger for hosting services
 
 ---
