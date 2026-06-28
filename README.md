@@ -25,7 +25,7 @@ markdown
 | Hosting | Hostinger (Subdomain) |
 | CMS | WordPress 6.x |
 | E-Commerce Plugin | WooCommerce |
-| Theme | Astra (Free Version) |
+| Theme | HostingerAI Theme (Free Version) |
 | Language | PHP, HTML, CSS, JavaScript |
 | Database | MySQL |
 | Version Control | Git & GitHub |
